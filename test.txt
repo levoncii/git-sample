@@ -1,4 +1,5 @@
 hello git
 
 
-it's new line
+it's new line.
+Add new line
